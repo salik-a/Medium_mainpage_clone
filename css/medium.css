@@ -1,0 +1,56 @@
+.nav-h2{
+    color: rgba(8, 8, 8, 1);
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    letter-spacing: -0.05em;
+    line-height: 74px;
+    font-size: 70px;
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 400;
+    display: block;
+    margin: 0;
+    
+    
+}
+.get-started-button{
+    padding: 7px 20px 9px;
+    border-width: 1px;
+    border-radius: 99em;
+    border-color: #000;
+    color: #000;
+}
+.medium_pic{
+    float: right;
+    width: 400px;
+    height: 340px;
+    margin-top: -20px;
+    
+}
+.trend{
+    border-radius: 50%;
+    border: 1px solid rgba(8, 8, 8, 1);
+}
+.article-number{
+    font-weight: bold;
+    color: rgba(230, 230, 230, 1);
+    letter-spacing: 0;
+    line-height: 36px;
+    font-size: 30px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.read-time{
+    color: rgba(117, 117, 117, 1);
+    font-size: 13px;
+    line-height: 20px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+.last{
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.save{
+    color: rgba(117, 117, 117, 1);
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 400;
+    margin-left: 340px;
+}
